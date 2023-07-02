@@ -47,3 +47,5 @@ dn vnd d mdsa
  dc bsd cab csbac ab
  c bsa cbas b
  csa ba b sca
+sca ans cans csan nas cnas
+csan casncan
