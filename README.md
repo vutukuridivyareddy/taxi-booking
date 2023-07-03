@@ -49,3 +49,7 @@ dn vnd d mdsa
  csa ba b sca
 sca ans cans csan nas cnas
 csan casncan
+bsbc bcb cbx cx z
+nbnsxbncbnb
+ cnbdsn bsdnb n bsdn
+  s s snd
