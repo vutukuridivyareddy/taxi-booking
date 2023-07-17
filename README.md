@@ -53,3 +53,5 @@ bsbc bcb cbx cx z
 nbnsxbncbnb
  cnbdsn bsdnb n bsdn
   s s snd
+cd nd cdnc dna sd
+cdmcandmcansmc
