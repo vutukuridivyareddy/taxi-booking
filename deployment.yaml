@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: app1
-          image: divyadocker12345/taxibooking:5
+          image: divyadocker12345/taxibooking:8
           ports:
             - containerPort: 8080
 ---
